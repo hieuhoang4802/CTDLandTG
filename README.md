@@ -1,2 +1,1 @@
-# CTDLandTG
-#c++ 
+Hế lô
